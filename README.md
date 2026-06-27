@@ -1,10 +1,9 @@
 
 # Build a RAG API with FastAPI
 
-**Project Link:** [View Project](http://nextwork.ai/projects/ai-devops-api)
+**Project Link:** https://github.com/Vishwakarma-abhi/Build-a-RAG-API-with-FastAPI-Ollama-ChromaDb
 
 **Author:** Abhijeet Vishwakarma  
-**Email:** jertbeats.music@gmail.com
 
 ---
 
